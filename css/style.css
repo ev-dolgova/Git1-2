@@ -1,0 +1,22 @@
+header {
+		background-color: #742FC73D; 
+		font-family: 'Amatic SC', cursive;
+	   }
+.main {
+		background-color: #FFF0; 
+		font-family: 'Caveat', cursive;
+	}
+.main_c {
+		padding-top:20px; 
+		padding-bottom:40px;
+	}
+
+.tasks {
+	background-color: #742FC73D; 
+	font-family: 'Amatic SC', cursive;
+}
+ 
+footer {
+	
+		
+}
